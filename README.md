@@ -32,6 +32,8 @@ Welcome to my GitHub! I'm a passionate **Backend Developer** who loves building 
 - MongoDB, PostgreSQL, MySQL
 - Redis, Firebase
 
+---
+
 📊 **GitHub Stats**
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=muazahmed-dev&show_icons=true&theme=radical)

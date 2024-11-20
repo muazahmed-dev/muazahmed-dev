@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Maaz Ahmed
 
 Welcome to my GitHub! I'm a passionate **Backedn Developer** who loves building efficient, scalable applications using **JavaScript** and its modern frameworks.
 
